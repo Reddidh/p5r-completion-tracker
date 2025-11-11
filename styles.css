@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Merriweather;
+    src: url(Fonts/Merriweather/static/Merriweather_24pt-Light.ttf)
+}
+@font-face {
+    font-family: Roboto;
+    src: url(Fonts/Roboto/Roboto-VariableFont_wdth_wght.ttf);
+} 
+p {
+    font-family: Roboto
+}  
+h1, h2, h3 {
+    font-family: Merriweather
+}
+h1 {
+    font-weight: 300;
+    text-align: center 
+}
