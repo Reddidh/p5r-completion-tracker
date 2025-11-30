@@ -1,0 +1,1162 @@
+[
+  {
+    "LVL": "1",
+    "Persona": "Arsène",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "2",
+    "Persona": "Jack-o'-Lantern",
+    "Arcana": "Magician"
+  },
+  {
+    "LVL": "2",
+    "Persona": "Pixie",
+    "Arcana": "Lovers"
+  },
+  {
+    "LVL": "3",
+    "Persona": "Agathion",
+    "Arcana": "Chariot"
+  },
+  {
+    "LVL": "3",
+    "Persona": "Mandrake",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "4",
+    "Persona": "Bicorn",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "5",
+    "Persona": "Cait Sith",
+    "Arcana": "Magician"
+  },
+  {
+    "LVL": "5",
+    "Persona": "Incubus",
+    "Arcana": "Devil"
+  },
+  {
+    "LVL": "6",
+    "Persona": "Kelpie",
+    "Arcana": "Strength"
+  },
+  {
+    "LVL": "6",
+    "Persona": "Saki Mitama",
+    "Arcana": "Lovers"
+  },
+  {
+    "LVL": "6",
+    "Persona": "Silky",
+    "Arcana": "Priestess"
+  },
+  {
+    "LVL": "7",
+    "Persona": "Genbu",
+    "Arcana": "Temperance"
+  },
+  {
+    "LVL": "7",
+    "Persona": "Succubus",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "8",
+    "Persona": "Obariyon",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "9",
+    "Persona": "Angel",
+    "Arcana": "Justice"
+  },
+  {
+    "LVL": "9",
+    "Persona": "Berith",
+    "Arcana": "Hierophant"
+  },
+  {
+    "LVL": "9",
+    "Persona": "Hua Po",
+    "Arcana": "Hanged"
+  },
+  {
+    "LVL": "9",
+    "Persona": "Koropokkuru",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "9",
+    "Persona": "Mokoi",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "10",
+    "Persona": "Regent",
+    "Arcana": "Emperor"
+  },
+  {
+    "LVL": "10",
+    "Persona": "Slime",
+    "Arcana": "Chariot"
+  },
+  {
+    "LVL": "11",
+    "Persona": "Apsaras",
+    "Arcana": "Priestess"
+  },
+  {
+    "LVL": "11",
+    "Persona": "Jack Frost",
+    "Arcana": "Magician"
+  },
+  {
+    "LVL": "11",
+    "Persona": "Kodama",
+    "Arcana": "Star"
+  },
+  {
+    "LVL": "11",
+    "Persona": "Koppa Tengu",
+    "Arcana": "Temperance"
+  },
+  {
+    "LVL": "11",
+    "Persona": "Orpheus F DLC",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "12",
+    "Persona": "Kushi Mitama",
+    "Arcana": "Councillor"
+  },
+  {
+    "LVL": "12",
+    "Persona": "Onmoraki",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "13",
+    "Persona": "Ame-no-Uzume",
+    "Arcana": "Lovers"
+  },
+  {
+    "LVL": "13",
+    "Persona": "Ippon-Datara",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "13",
+    "Persona": "Orpheus F Picaro DLC",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "14",
+    "Persona": "Archangel",
+    "Arcana": "Justice"
+  },
+  {
+    "LVL": "14",
+    "Persona": "Inugami",
+    "Arcana": "Hanged"
+  },
+  {
+    "LVL": "15",
+    "Persona": "Makami",
+    "Arcana": "Temperance"
+  },
+  {
+    "LVL": "15",
+    "Persona": "Queen's Necklace",
+    "Arcana": "Empress"
+  },
+  {
+    "LVL": "15",
+    "Persona": "Shiisaa",
+    "Arcana": "Strength"
+  },
+  {
+    "LVL": "16",
+    "Persona": "Eligor",
+    "Arcana": "Emperor"
+  },
+  {
+    "LVL": "16",
+    "Persona": "High Pixie",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "16",
+    "Persona": "Suzaku",
+    "Arcana": "Sun"
+  },
+  {
+    "LVL": "16",
+    "Persona": "Kaguya DLC",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "17",
+    "Persona": "Matador",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "17",
+    "Persona": "Nekomata",
+    "Arcana": "Magician"
+  },
+  {
+    "LVL": "17",
+    "Persona": "Orobas",
+    "Arcana": "Hierophant"
+  },
+  {
+    "LVL": "17",
+    "Persona": "Sudama",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "18",
+    "Persona": "Black Ooze",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "18",
+    "Persona": "Shiki-Ouji",
+    "Arcana": "Chariot"
+  },
+  {
+    "LVL": "19",
+    "Persona": "Flauros",
+    "Arcana": "Devil"
+  },
+  {
+    "LVL": "19",
+    "Persona": "Leanan Sidhe",
+    "Arcana": "Lovers"
+  },
+  {
+    "LVL": "20",
+    "Persona": "Nue",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "20",
+    "Persona": "Oni",
+    "Arcana": "Strength"
+  },
+  {
+    "LVL": "20",
+    "Persona": "Stone of Scone",
+    "Arcana": "Fortune"
+  },
+  {
+    "LVL": "20",
+    "Persona": "Yaksini",
+    "Arcana": "Empress"
+  },
+  {
+    "LVL": "20",
+    "Persona": "Izanagi DLC",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "21",
+    "Persona": "Orthrus",
+    "Arcana": "Hanged"
+  },
+  {
+    "LVL": "21",
+    "Persona": "Phoenix",
+    "Arcana": "Faith"
+  },
+  {
+    "LVL": "22",
+    "Persona": "Jikokuten",
+    "Arcana": "Temperance"
+  },
+  {
+    "LVL": "22",
+    "Persona": "Nigi Mitama",
+    "Arcana": "Councillor"
+  },
+  {
+    "LVL": "23",
+    "Persona": "Fuu-Ki",
+    "Arcana": "Star"
+  },
+  {
+    "LVL": "23",
+    "Persona": "Sandman",
+    "Arcana": "Magician"
+  },
+  {
+    "LVL": "23",
+    "Persona": "Izanagi Picaro DLC",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "24",
+    "Persona": "Naga",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "24",
+    "Persona": "Rakshasa",
+    "Arcana": "Strength"
+  },
+  {
+    "LVL": "24",
+    "Persona": "Sui-Ki",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "25",
+    "Persona": "Anzu",
+    "Arcana": "Hierophant"
+  },
+  {
+    "LVL": "25",
+    "Persona": "Kin-Ki",
+    "Arcana": "Chariot"
+  },
+  {
+    "LVL": "25",
+    "Persona": "Koh-i-Noor",
+    "Arcana": "Priestess"
+  },
+  {
+    "LVL": "25",
+    "Persona": "Setanta",
+    "Arcana": "Emperor"
+  },
+  {
+    "LVL": "25",
+    "Persona": "Kaguya Picaro DLC",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "26",
+    "Persona": "Isis",
+    "Arcana": "Priestess"
+  },
+  {
+    "LVL": "26",
+    "Persona": "Lamia",
+    "Arcana": "Empress"
+  },
+  {
+    "LVL": "26",
+    "Persona": "Take-Minakata",
+    "Arcana": "Hanged"
+  },
+  {
+    "LVL": "26",
+    "Persona": "Orpheus DLC",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "27",
+    "Persona": "Andras",
+    "Arcana": "Devil"
+  },
+  {
+    "LVL": "27",
+    "Persona": "Clotho",
+    "Arcana": "Fortune"
+  },
+  {
+    "LVL": "27",
+    "Persona": "Tam Lin",
+    "Arcana": "Faith"
+  },
+  {
+    "LVL": "28",
+    "Persona": "Choronzon",
+    "Arcana": "Magician"
+  },
+  {
+    "LVL": "28",
+    "Persona": "Pisaca",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "29",
+    "Persona": "Principality",
+    "Arcana": "Justice"
+  },
+  {
+    "LVL": "29",
+    "Persona": "Orpheus Picaro DLC",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "30",
+    "Persona": "Neko Shogun",
+    "Arcana": "Star"
+  },
+  {
+    "LVL": "30",
+    "Persona": "Orlov",
+    "Arcana": "Strength"
+  },
+  {
+    "LVL": "30",
+    "Persona": "Ariadne DLC",
+    "Arcana": "Fortune"
+  },
+  {
+    "LVL": "30",
+    "Persona": "Ara Mitama",
+    "Arcana": "Chariot"
+  },
+  {
+    "LVL": "31",
+    "Persona": "Kurama Tengu",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "31",
+    "Persona": "Zouchouten",
+    "Arcana": "Strength"
+  },
+  {
+    "LVL": "32",
+    "Persona": "Decarabia",
+    "Arcana": "Councillor"
+  },
+  {
+    "LVL": "32",
+    "Persona": "Lilim",
+    "Arcana": "Devil"
+  },
+  {
+    "LVL": "33",
+    "Persona": "Mothman",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "33",
+    "Persona": "Mitra",
+    "Arcana": "Temperance"
+  },
+  {
+    "LVL": "34",
+    "Persona": "Anubis",
+    "Arcana": "Judgement"
+  },
+  {
+    "LVL": "34",
+    "Persona": "Thunderbird",
+    "Arcana": "Sun"
+  },
+  {
+    "LVL": "35",
+    "Persona": "Arahabaki",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "35",
+    "Persona": "Emperor's Amulet",
+    "Arcana": "Hanged"
+  },
+  {
+    "LVL": "35",
+    "Persona": "Lachesis",
+    "Arcana": "Fortune"
+  },
+  {
+    "LVL": "36",
+    "Persona": "Kaiwan",
+    "Arcana": "Star"
+  },
+  {
+    "LVL": "36",
+    "Persona": "Thoth",
+    "Arcana": "Emperor"
+  },
+  {
+    "LVL": "37",
+    "Persona": "Belphegor",
+    "Arcana": "Tower"
+  },
+  {
+    "LVL": "37",
+    "Persona": "Hell Biker",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "38",
+    "Persona": "Legion",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "38",
+    "Persona": "White Rider",
+    "Arcana": "Chariot"
+  },
+  {
+    "LVL": "39",
+    "Persona": "Atropos",
+    "Arcana": "Fortune"
+  },
+  {
+    "LVL": "39",
+    "Persona": "Mithras",
+    "Arcana": "Sun"
+  },
+  {
+    "LVL": "39",
+    "Persona": "Unicorn",
+    "Arcana": "Faith"
+  },
+  {
+    "LVL": "40",
+    "Persona": "Daisoujou",
+    "Arcana": "Hierophant"
+  },
+  {
+    "LVL": "40",
+    "Persona": "Hariti",
+    "Arcana": "Empress"
+  },
+  {
+    "LVL": "40",
+    "Persona": "Hope Diamond",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "40",
+    "Persona": "Kikuri-Hime",
+    "Arcana": "Priestess"
+  },
+  {
+    "LVL": "41",
+    "Persona": "Power",
+    "Arcana": "Justice"
+  },
+  {
+    "LVL": "41",
+    "Persona": "Red Rider",
+    "Arcana": "Tower"
+  },
+  {
+    "LVL": "42",
+    "Persona": "Hecatoncheires",
+    "Arcana": "Hanged"
+  },
+  {
+    "LVL": "42",
+    "Persona": "Kumbhanda",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "42",
+    "Persona": "Kushinada",
+    "Arcana": "Lovers"
+  },
+  {
+    "LVL": "42",
+    "Persona": "Ose",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "42",
+    "Persona": "Ariadne Picaro DLC",
+    "Arcana": "Fortune"
+  },
+  {
+    "LVL": "43",
+    "Persona": "Yurlungur",
+    "Arcana": "Sun"
+  },
+  {
+    "LVL": "43",
+    "Persona": "Girimehkala",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "43",
+    "Persona": "Queen Mab",
+    "Arcana": "Magician"
+  },
+  {
+    "LVL": "44",
+    "Persona": "Ananta",
+    "Arcana": "Councillor"
+  },
+  {
+    "LVL": "44",
+    "Persona": "Valkyrie",
+    "Arcana": "Strength"
+  },
+  {
+    "LVL": "44",
+    "Persona": "Magatsu-Izanagi DLC",
+    "Arcana": "Tower"
+  },
+  {
+    "LVL": "45",
+    "Persona": "Pazuzu",
+    "Arcana": "Devil"
+  },
+  {
+    "LVL": "45",
+    "Persona": "Byakko",
+    "Arcana": "Temperance"
+  },
+  {
+    "LVL": "46",
+    "Persona": "Fortuna",
+    "Arcana": "Fortune"
+  },
+  {
+    "LVL": "46",
+    "Persona": "Athena DLC",
+    "Arcana": "Chariot"
+  },
+  {
+    "LVL": "47",
+    "Persona": "Horus",
+    "Arcana": "Sun"
+  },
+  {
+    "LVL": "48",
+    "Persona": "Narcissus",
+    "Arcana": "Lovers"
+  },
+  {
+    "LVL": "48",
+    "Persona": "Rangda",
+    "Arcana": "Magician"
+  },
+  {
+    "LVL": "48",
+    "Persona": "Magatsu-Izanagi Picaro DLC",
+    "Arcana": "Tower"
+  },
+  {
+    "LVL": "49",
+    "Persona": "Bugs",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "49",
+    "Persona": "Koumokuten",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "50",
+    "Persona": "Crystal Skull",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "50",
+    "Persona": "Dakini",
+    "Arcana": "Empress"
+  },
+  {
+    "LVL": "50",
+    "Persona": "Sarasvati",
+    "Arcana": "Priestess"
+  },
+  {
+    "LVL": "50",
+    "Persona": "Athena Picaro DLC",
+    "Arcana": "Chariot"
+  },
+  {
+    "LVL": "50",
+    "Persona": "Tsukiyomi DLC",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "51",
+    "Persona": "Seth",
+    "Arcana": "Tower"
+  },
+  {
+    "LVL": "51",
+    "Persona": "Jatayu",
+    "Arcana": "Hanged"
+  },
+  {
+    "LVL": "52",
+    "Persona": "Barong",
+    "Arcana": "Emperor"
+  },
+  {
+    "LVL": "52",
+    "Persona": "Garuda",
+    "Arcana": "Star"
+  },
+  {
+    "LVL": "52",
+    "Persona": "Mishaguji",
+    "Arcana": "Hierophant"
+  },
+  {
+    "LVL": "52",
+    "Persona": "Norn",
+    "Arcana": "Fortune"
+  },
+  {
+    "LVL": "53",
+    "Persona": "Ganesha",
+    "Arcana": "Sun"
+  },
+  {
+    "LVL": "53",
+    "Persona": "Skadi",
+    "Arcana": "Priestess"
+  },
+  {
+    "LVL": "54",
+    "Persona": "Okuninushi",
+    "Arcana": "Faith"
+  },
+  {
+    "LVL": "54",
+    "Persona": "Pale Rider",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "55",
+    "Persona": "Raja Naga",
+    "Arcana": "Temperance"
+  },
+  {
+    "LVL": "55",
+    "Persona": "Cerberus",
+    "Arcana": "Chariot"
+  },
+  {
+    "LVL": "55",
+    "Persona": "Tsukiyomi Picaro DLC",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "56",
+    "Persona": "Parvati",
+    "Arcana": "Lovers"
+  },
+  {
+    "LVL": "56",
+    "Persona": "Titania",
+    "Arcana": "Empress"
+  },
+  {
+    "LVL": "56",
+    "Persona": "Asterius DLC",
+    "Arcana": "Fortune"
+  },
+  {
+    "LVL": "57",
+    "Persona": "Yatagarasu",
+    "Arcana": "Councillor"
+  },
+  {
+    "LVL": "58",
+    "Persona": "Baphomet",
+    "Arcana": "Devil"
+  },
+  {
+    "LVL": "58",
+    "Persona": "Melchizedek",
+    "Arcana": "Justice"
+  },
+  {
+    "LVL": "59",
+    "Persona": "Black Rider",
+    "Arcana": "Tower"
+  },
+  {
+    "LVL": "59",
+    "Persona": "Trumpeter",
+    "Arcana": "Judgement"
+  },
+  {
+    "LVL": "60",
+    "Persona": "Lilith",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "60",
+    "Persona": "Moloch",
+    "Arcana": "Hanged"
+  },
+  {
+    "LVL": "60",
+    "Persona": "Orichalcum",
+    "Arcana": "Faith"
+  },
+  {
+    "LVL": "61",
+    "Persona": "King Frost",
+    "Arcana": "Emperor"
+  },
+  {
+    "LVL": "62",
+    "Persona": "Chernobog",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "62",
+    "Persona": "Seiryu",
+    "Arcana": "Councillor"
+  },
+  {
+    "LVL": "62",
+    "Persona": "Asterius Picaro DLC",
+    "Arcana": "Fortune"
+  },
+  {
+    "LVL": "63",
+    "Persona": "Forneus",
+    "Arcana": "Magician"
+  },
+  {
+    "LVL": "63",
+    "Persona": "Kali",
+    "Arcana": "Empress"
+  },
+  {
+    "LVL": "64",
+    "Persona": "Hanuman",
+    "Arcana": "Strength"
+  },
+  {
+    "LVL": "64",
+    "Persona": "Thor",
+    "Arcana": "Chariot"
+  },
+  {
+    "LVL": "64",
+    "Persona": "Yamata-no-Orochi",
+    "Arcana": "Judgement"
+  },
+  {
+    "LVL": "65",
+    "Persona": "Atavaka",
+    "Arcana": "Faith"
+  },
+  {
+    "LVL": "65",
+    "Persona": "Thanatos DLC",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "66",
+    "Persona": "Quetzalcoatl",
+    "Arcana": "Sun"
+  },
+  {
+    "LVL": "66",
+    "Persona": "Oberon",
+    "Arcana": "Emperor"
+  },
+  {
+    "LVL": "67",
+    "Persona": "Bishamonten",
+    "Arcana": "Hierophant"
+  },
+  {
+    "LVL": "67",
+    "Persona": "Black Frost",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "68",
+    "Persona": "Vasuki",
+    "Arcana": "Star"
+  },
+  {
+    "LVL": "68",
+    "Persona": "Dominion",
+    "Arcana": "Justice"
+  },
+  {
+    "LVL": "69",
+    "Persona": "Lakshmi",
+    "Arcana": "Fortune"
+  },
+  {
+    "LVL": "69",
+    "Persona": "Thanatos Picaro DLC",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "70",
+    "Persona": "Byakhee",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "70",
+    "Persona": "Loa",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "71",
+    "Persona": "Dionysus",
+    "Arcana": "Councillor"
+  },
+  {
+    "LVL": "72",
+    "Persona": "Mot",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "72",
+    "Persona": "Throne",
+    "Arcana": "Justice"
+  },
+  {
+    "LVL": "73",
+    "Persona": "Macabre",
+    "Arcana": "Hanged"
+  },
+  {
+    "LVL": "73",
+    "Persona": "Mara",
+    "Arcana": "Tower"
+  },
+  {
+    "LVL": "74",
+    "Persona": "Nebiros",
+    "Arcana": "Devil"
+  },
+  {
+    "LVL": "74",
+    "Persona": "Chimera",
+    "Arcana": "Strength"
+  },
+  {
+    "LVL": "75",
+    "Persona": "Sandalphon",
+    "Arcana": "Moon"
+  },
+  {
+    "LVL": "75",
+    "Persona": "Abaddon",
+    "Arcana": "Judgement"
+  },
+  {
+    "LVL": "76",
+    "Persona": "Asura",
+    "Arcana": "Sun"
+  },
+  {
+    "LVL": "76",
+    "Persona": "Kohryu",
+    "Arcana": "Hierophant"
+  },
+  {
+    "LVL": "76",
+    "Persona": "Cu Chulainn",
+    "Arcana": "Faith"
+  },
+  {
+    "LVL": "76",
+    "Persona": "Raoul DLC",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "77",
+    "Persona": "Gabriel",
+    "Arcana": "Temperance"
+  },
+  {
+    "LVL": "77",
+    "Persona": "Scathach",
+    "Arcana": "Priestess"
+  },
+  {
+    "LVL": "78",
+    "Persona": "Raphael",
+    "Arcana": "Lovers"
+  },
+  {
+    "LVL": "80",
+    "Persona": "Sraosha",
+    "Arcana": "Star"
+  },
+  {
+    "LVL": "80",
+    "Persona": "Zaou-Gongen",
+    "Arcana": "Strength"
+  },
+  {
+    "LVL": "80",
+    "Persona": "Vohu Manah",
+    "Arcana": "Councillor"
+  },
+  {
+    "LVL": "80",
+    "Persona": "Izanagi-no-Okami DLC",
+    "Arcana": "World"
+  },
+  {
+    "LVL": "81",
+    "Persona": "Alilat",
+    "Arcana": "Empress"
+  },
+  {
+    "LVL": "81",
+    "Persona": "Uriel",
+    "Arcana": "Justice"
+  },
+  {
+    "LVL": "81",
+    "Persona": "Messiah DLC",
+    "Arcana": "Judgement"
+  },
+  {
+    "LVL": "82",
+    "Persona": "Attis",
+    "Arcana": "Hanged"
+  },
+  {
+    "LVL": "82",
+    "Persona": "Shiva",
+    "Arcana": "Judgement"
+  },
+  {
+    "LVL": "82",
+    "Persona": "Baal",
+    "Arcana": "Emperor"
+  },
+  {
+    "LVL": "82",
+    "Persona": "Belial",
+    "Arcana": "Devil"
+  },
+  {
+    "LVL": "83",
+    "Persona": "Alice",
+    "Arcana": "Death"
+  },
+  {
+    "LVL": "83",
+    "Persona": "Cybele",
+    "Arcana": "Priestess"
+  },
+  {
+    "LVL": "83",
+    "Persona": "Surt",
+    "Arcana": "Magician"
+  },
+  {
+    "LVL": "83",
+    "Persona": "Vishnu",
+    "Arcana": "Fool"
+  },
+  {
+    "LVL": "84",
+    "Persona": "Ardha",
+    "Arcana": "Temperance"
+  },
+  {
+    "LVL": "84",
+    "Persona": "Odin",
+    "Arcana": "Emperor"
+  },
+  {
+    "LVL": "84",
+    "Persona": "Siegfried",
+    "Arcana": "Faith"
+  },
+  {
+    "LVL": "84",
+    "Persona": "Hastur",
+    "Arcana": "Star"
+  },
+  {
+    "LVL": "85",
+    "Persona": "Ishtar",
+    "Arcana": "Lovers"
+  },
+  {
+    "LVL": "85",
+    "Persona": "Mother Harlot",
+    "Arcana": "Empress"
+  },
+  {
+    "LVL": "86",
+    "Persona": "Futsunushi",
+    "Arcana": "Magician"
+  },
+  {
+    "LVL": "86",
+    "Persona": "Fafnir",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "87",
+    "Persona": "Beelzebub",
+    "Arcana": "Devil"
+  },
+  {
+    "LVL": "87",
+    "Persona": "Michael",
+    "Arcana": "Judgement"
+  },
+  {
+    "LVL": "87",
+    "Persona": "Yoshitsune",
+    "Arcana": "Tower"
+  },
+  {
+    "LVL": "88",
+    "Persona": "Chi You",
+    "Arcana": "Chariot"
+  },
+  {
+    "LVL": "89",
+    "Persona": "Metatron",
+    "Arcana": "Justice"
+  },
+  {
+    "LVL": "89",
+    "Persona": "Ongyo-Ki",
+    "Arcana": "Hermit"
+  },
+  {
+    "LVL": "89",
+    "Persona": "Izanagi-no-Okami Picaro DLC",
+    "Arcana": "World"
+  },
+  {
+    "LVL": "90",
+    "Persona": "Mada",
+    "Arcana": "Tower"
+  },
+  {
+    "LVL": "90",
+    "Persona": "Messiah Picaro DLC",
+    "Arcana": "Judgement"
+  },
+  {
+    "LVL": "92",
+    "Persona": "Satan",
+    "Arcana": "Judgement"
+  },
+  {
+    "LVL": "93",
+    "Persona": "Lucifer",
+    "Arcana": "Star"
+  },
+  {
+    "LVL": "93",
+    "Persona": "Maria",
+    "Arcana": "Faith"
+  },
+  {
+    "LVL": "95",
+    "Persona": "Satanael",
+    "Arcana": "Fool"
+  }
+]

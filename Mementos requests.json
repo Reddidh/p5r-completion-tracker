@@ -1,0 +1,192 @@
+[
+  {
+    "Path": "Aiyatsbus",
+    "Request": "“The Bark and Bite of a Bully“",
+    "Unlock": "5/9"
+  },
+  {
+    "Path": "Aiyatsbus",
+    "Request": "“An Elderly's Meaning of Life“",
+    "Unlock": "6/5 (Check Mishima SNS.)"
+  },
+  {
+    "Path": "Aiyatsbus",
+    "Request": "“One Who Bullies Bullies“",
+    "Unlock": "Reach Moon Confidant Rank 3. Must listen to Takanashi and Sakoda near School Gate."
+  },
+  {
+    "Path": "Aiyatsbus",
+    "Request": "“If Cats Disappeared from the City“",
+    "Unlock": "5/25 (Clear the Museum of Vanity palace first.)"
+  },
+  {
+    "Path": "Aiyatsbus",
+    "Request": "“Sadism Is Just a Sign of Love“",
+    "Unlock": "6/6"
+  },
+  {
+    "Path": "Chemdah",
+    "Request": "“Part-time Job, Full-time Hell“",
+    "Unlock": "Reach Moon Confidant Rank 4."
+  },
+  {
+    "Path": "Chemdah",
+    "Request": "“Bad Medicine“",
+    "Unlock": "Reach Death Confidant Rank 7."
+  },
+  {
+    "Path": "Chemdah",
+    "Request": "“Ending the Boyfriend's Abuse“",
+    "Unlock": "Confront Fortune Confidant after paying 100,000 Yen."
+  },
+  {
+    "Path": "Chemdah",
+    "Request": "“Phantom Thieves VS Burglary Ring”",
+    "Unlock": "6/18"
+  },
+  {
+    "Path": "Chemdah",
+    "Request": "“A Teacher Maid to Suffer“",
+    "Unlock": "Reach Temperance Confidant Rank 8."
+  },
+  {
+    "Path": "Chemdah",
+    "Request": "“The Lovesick Cyberstalking Girl“",
+    "Unlock": "7/10"
+  },
+  {
+    "Path": "Kaitul",
+    "Request": "“Calling for Justice for Cats“",
+    "Unlock": "8/11 and reach Moon Confidant Rank 5. Must work at Triple 7 Convenience Store."
+  },
+  {
+    "Path": "Kaitul",
+    "Request": "“Debunking the Psychic!“",
+    "Unlock": "Reach Fortune Confidant Rank 5."
+  },
+  {
+    "Path": "Kaitul",
+    "Request": "“Shady Deal in the Shadows“",
+    "Unlock": "Reach Hanged-Man Rank 7."
+  },
+  {
+    "Path": "Kaitul",
+    "Request": "“Who's Been Assaulting People?“",
+    "Unlock": "8/5 Must work at Flower Shop."
+  },
+  {
+    "Path": "Kaitul",
+    "Request": "“We Aren't Just Your Slaves“",
+    "Unlock": "8/2 Must work at Bar Crossroads."
+  },
+  {
+    "Path": "Kaitul",
+    "Request": "“Fighting for Truth in Journalism“",
+    "Unlock": "Reach Devil Confidant Rank 7."
+  },
+  {
+    "Path": "Kaitul",
+    "Request": "“Who's Muscling in Yongen-Jaya?“",
+    "Unlock": "8/30"
+  },
+  {
+    "Path": "Akzeriyyuth",
+    "Request": "“Man of Many Faces and Debts“",
+    "Unlock": "8/19 and reach Moon Confidant Rank 8."
+  },
+  {
+    "Path": "Akzeriyyuth",
+    "Request": "“Winners Don't Use Cheats“",
+    "Unlock": "9/14 and reach Tower Confidant Rank 1."
+  },
+  {
+    "Path": "Akzeriyyuth",
+    "Request": "“Upstaging the Stage Mother“",
+    "Unlock": "Reach Star Confidant Rank 7."
+  },
+  {
+    "Path": "Akzeriyyuth",
+    "Request": "“The Killer Who Cleans Up Trash“",
+    "Unlock": "10/14"
+  },
+  {
+    "Path": "Adyeshach",
+    "Request": "“The Money-grubbing Uncle“",
+    "Unlock": "12/10 and reach Hierophant Confidant 8"
+  },
+  {
+    "Path": "Adyeshach",
+    "Request": "“Daughter's Just a Meal Ticket“",
+    "Unlock": "Reach Hermit Confidant Rank 7."
+  },
+  {
+    "Path": "Adyeshach",
+    "Request": "“A Mother's Aggression“",
+    "Unlock": "Reach Tower Confidant Rank 8."
+  },
+  {
+    "Path": "Adyeshach",
+    "Request": "“Swindling Old Folk is Pretty Low“",
+    "Unlock": "11/25"
+  },
+  {
+    "Path": "Sheriruth",
+    "Request": "“Lady-Killer's Ballad” ",
+    "Unlock": "12/10"
+  },
+  {
+    "Path": "Sheriruth",
+    "Request": "“The Head Honcho in Showbiz“",
+    "Unlock": "12/3 (Clear the Cruiser of Pride palace first.)"
+  },
+  {
+    "Path": "Da'at",
+    "Request": "“O My Young Sister, I Cry For You” ",
+    "Unlock": "1/14 (Check Mishima SNS.) Reach 3rd Semester."
+  },
+  {
+    "Path": "Da'at",
+    "Request": "“An Idol and a Unicorn” ",
+    "Unlock": "Clear the Center of Melancholy palace and enter Mementos the next day. Must listen to Lily-Nyan and Fuwa after getting an SNS. Must listen to Lily-Nyan and Fuwa after getting an SNS. Appears on days that don’t have rainy or cold weather."
+  },
+  {
+    "Path": "Da'at",
+    "Request": "“Fake-Man Show”",
+    "Unlock": "Clear the Center of Melancholy palace and enter Mementos the next day. Must listen to Kichijoji residents and a pair of students after getting an SNS. In the event that there is either rainy or cold weather, the request happens after school."
+  },
+  {
+    "Path": "Da'at",
+    "Request": "“Sadism Is Just a Sign of Love“",
+    "Unlock": "Unlock: 6/6 Not available if already cleared."
+  },
+  {
+    "Path": "Da'at",
+    "Request": "“The Lovesick Cyberstalking Girl“",
+    "Unlock": "Unlock: 7/10  Not available if already cleared."
+  },
+  {
+    "Path": "Da'at",
+    "Request": "“A Small Cry for Help” ",
+    "Unlock": "Unlock: 1/13 (Check Futaba SNS.) Reach 3rd Semester."
+  },
+  {
+    "Path": "Da'at",
+    "Request": "“Who's Muscling in Yongen-Jaya?“",
+    "Unlock": "Unlock: 8/30  Not available if already cleared."
+  },
+  {
+    "Path": "Da'at",
+    "Request": "“The Killer Who Cleans Up Trash“",
+    "Unlock": "Unlock: 10/14 Not available if already cleared."
+  },
+  {
+    "Path": "Da'at",
+    "Request": "“Swindling Old Folk is Pretty Low“",
+    "Unlock": "Unlock: 11/25 Not available if already cleared."
+  },
+  {
+    "Path": "Da'at",
+    "Request": "“The Head Honcho in Showbiz“",
+    "Unlock": "Unlock: 12/3 (Clear the Cruiser of Pride palace first.) Not available if already cleared."
+  }
+]
