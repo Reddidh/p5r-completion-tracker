@@ -3,57 +3,42 @@
 <head>
   <meta charset="UTF-8">
   <link href="styles.css" rel="stylesheet" />
-    <title>P5R compendium & mementos tracker</title>
-    <h1>P5R Compendium & Mementos Requests tracker</h1>
+  <title>P5R compendium & mementos tracker</title>
+  <h1>P5R Compendium & Mementos Requests tracker</h1>
 </head> 
-<body>
-Compendium 
-
-<div>    
-  <table class="center">
+<body> 
+  <div id="compendium-container">
+    <table class="center" id="compendium-table">
+      <thead>
         <tr>
-            <th>Check?</th>
-            <th>LVL</th>
-            <th>Persona</th>
-            <th>Arcana</th>
+          <th>Check?</th>
+          <th>LVL</th>
+          <th>Persona</th>
+          <th>Arcana</th>
         </tr>
-        <tr>
-            <td><input type="checkbox" name="select"></td>
-            <td>1</td>
-            <td>placeholder text</td>
-            <td>something</td>
-        </tr>
-        <tr>
-            <td><input type="checkbox" name="select"></td>
-            <td>2</td>
-            <td>placeholder text</td>
-            <td>something</td>
-        </tr>
+      </thead>
+      <tbody id="compendium-tbody">
+        <!-- Täidetakse JavaScriptiga -->
+      </tbody>
     </table>
-</div>
-Mementos Requests
+  </div>
 
-<div>    
-  <table class="center">
+<div id="mementos-container">
+    <table class="center" id="mementos-table">
+      <thead>
         <tr>
-            <th>Done?</th>
-            <th>Path</th>
-            <th>Request</th>
-            <th>Unlock conditions</th>
+          <th>Done?</th>
+          <th>Path</th>
+          <th>Request</th>
+          <th>Unlock conditions</th>
         </tr>
-        <tr>
-            <td><input type="checkbox" name="select"></td>
-            <td>Kaitul</td>
-            <td>placeholder text</td>
-            <td>something</td>
-        </tr>
-        <tr>
-            <td><input type="checkbox" name="select"></td>
-            <td>Kaitul</td>
-            <td>placeholder text</td>
-            <td>something</td>
-        </tr>
+      </thead>
+      <tbody id="mementos-tbody">
+        <!-- Täidetakse JavaScriptiga -->
+      </tbody>
     </table>
-</div>
+  </div>
+
+<script src="script.js"></script>
 </body>
 </html> 
